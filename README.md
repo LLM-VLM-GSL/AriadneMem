@@ -524,7 +524,7 @@ COARSENING_THRESHOLD = 0.7
 ## Acknowledgments
 
 We would like to thank the following projects and teams:
-- **Codebase**: [SimpleMem](https://github.com/aiming-lab/SimpleMem/tree/main)
+- **Codebase**: [SimpleMem](https://github.com/aiming-lab/SimpleMem/tree/main) (Special thanks to their open-source contribution!)
 - **Embedding Models**: 
   - [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) (Sentence Transformers) - Lightweight and CPU-friendly
   - [Qwen3-Embedding](https://github.com/QwenLM/Qwen) - State-of-the-art retrieval performance
