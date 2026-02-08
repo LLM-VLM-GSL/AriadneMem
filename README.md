@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LLM-VLM-GSL/AriadneMem.github.io/main/image/000.png" width="160" alt="AriadneMem Logo">
+  <img src="https://raw.githubusercontent.com/LLM-VLM-GSL/AriadneMem.github.io/main/image/000.png" width="280" alt="AriadneMem Logo">
 </p>
-
-<h1 align="center">AriadneMem</h1>
 
 <p align="center">
   <strong>Threading the Maze of Lifelong Memory for LLM Agents</strong>
