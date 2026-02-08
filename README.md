@@ -1,25 +1,45 @@
-# AriadneMem
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LLM-VLM-GSL/AriadneMem.github.io/main/image/000.png" width="160" alt="AriadneMem Logo">
+</p>
 
-**Threading the Maze of Lifelong Memory for LLM Agents**
+<h1 align="center">AriadneMem</h1>
 
-AriadneMem is a structured memory system that addresses disconnected evidence and state update challenges in long-horizon LLM agents through a decoupled two-phase pipeline.
+<p align="center">
+  <strong>Threading the Maze of Lifelong Memory for LLM Agents</strong>
+</p>
+
+<p align="center">
+  AriadneMem is a structured memory system that addresses disconnected evidence and state update challenges in long-horizon LLM agents through a decoupled two-phase pipeline.
+</p>
+
+<p align="center">
+  <a href="https://llm-vlm-gsl.github.io/AriadneMem.github.io/"><strong>🌐 Project Page</strong></a> | 
+  <a href="AriadneMem_Paper.pdf"><strong>📥 Download Paper (PDF)</strong></a>
+</p>
 
 ---
 
-## 📄 Paper
+<h3 align="center">🚀 Platform Compatibility</h3>
 
-**AriadneMem: Threading the Maze of Lifelong Memory for LLM Agents**
+<p align="center">
+  Works seamlessly with any AI platform supporting <b>MCP</b> or <b>Python integration</b>.
+</p>
 
-🌐 [**Project Page**](https://llm-vlm-gsl.github.io/AriadneMem.github.io/) | 📥 [**Download Paper (PDF)**](AriadneMem_Paper.pdf)
+<div align="center">
+
+| <img src="https://cdn.simpleicons.org/cursor/000000" width="40" alt="Cursor"/><br>**Cursor** | <img src="https://cdn.simpleicons.org/claude/D97757" width="40" alt="Claude"/><br>**Claude** | <img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub"/><br>**Copilot** | <img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python"/><br>**Python** | <img src="https://cdn.simpleicons.org/fastapi/009688" width="40" alt="MCP"/><br>**MCP Client** |
+| :---: | :---: | :---: | :---: | :---: |
+| ✅ Fully Tested | 🤝 Compatible | 🤝 Compatible | ✅ Fully Tested | 🔗 Universal |
+
+</div>
 
 ---
 
-**Works with any AI platform that supports MCP or Python integration**
+### 🌟 Key Features
 
-| [<img src="https://cdn.simpleicons.org/cursor/000000" width="40" alt="Cursor"/>](https://cursor.com) | [<img src="https://cdn.simpleicons.org/claude/D97757" width="40" alt="Claude Desktop"/>](https://www.anthropic.com/claude) | [<img src="https://cdn.simpleicons.org/github/181717" width="40" alt="GitHub Copilot"/>](https://github.com/features/copilot) | [<img src="https://cdn.simpleicons.org/python/3776AB" width="40" alt="Python"/>](https://pypi.org/) | **+ Any MCP Client** |
-|:---:|:---:|:---:|:---:|:---:|
-| **Cursor** | **Claude Desktop** | **GitHub Copilot** | **Python SDK** | |
-| Fully Tested | Compatible | Compatible | Fully Tested | |
+* **Two-Phase Pipeline:** Decouples memory retrieval and state updates for enhanced stability.
+* **Evidence Threading:** Successfully bridges disconnected information across long-horizon tasks.
+* **Plug & Play:** Easy integration with modern AI IDEs and development workflows.
 
 ---
 
