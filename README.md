@@ -10,7 +10,7 @@ AriadneMem is a structured memory system that addresses disconnected evidence an
 
 **AriadneMem: Threading the Maze of Lifelong Memory for LLM Agents**
 
-📥 [**Download Paper (PDF)**](AriadneMem_Paper.pdf)
+🌐 [**Project Page**](https://llm-vlm-gsl.github.io/AriadneMem.github.io/) | 📥 [**Download Paper (PDF)**](AriadneMem_Paper.pdf)
 
 ---
 
