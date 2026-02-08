@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/LLM-VLM-GSL/AriadneMem.github.io/main/image/000.png" width="520" alt="AriadneMem Logo">
+  <img src="https://raw.githubusercontent.com/LLM-VLM-GSL/AriadneMem.github.io/main/image/000.png" width="360" alt="AriadneMem Logo">
 </p>
 
 <p align="center">
