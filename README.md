@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://llm-vlm-gsl.github.io/AriadneMem.github.io/"><strong>🌐 Project Page</strong></a> | 
-  <a href="AriadneMem_Paper.pdf"><strong>📥 Download Paper (PDF)</strong></a>
+  <a href="https://arxiv.org/pdf/2603.03290"><strong>📥 Paper (PDF)</strong></a>
 </p>
 
 ---
