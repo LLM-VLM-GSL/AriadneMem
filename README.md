@@ -15,6 +15,23 @@
   <a href="https://arxiv.org/pdf/2603.03290"><strong>📥 Paper (PDF)</strong></a>
 </p>
 
+
+
+If you find our work is useful in your research, please consider raising a star  :star:  and citing:
+
+```
+@misc{zhu2026ariadnememthreadingmazelifelong,
+      title={AriadneMem: Threading the Maze of Lifelong Memory for LLM Agents}, 
+      author={Wenhui Zhu and Xiwen Chen and Zhipeng Wang and Jingjing Wang and Xuanzhao Dong and Minzhou Huang and Rui Cai and Hejian Sang and Hao Wang and Peijie Qiu and Yueyue Deng and Prayag Tiwari and Brendan Hogan Rappazzo and Yalin Wang},
+      year={2026},
+      eprint={2603.03290},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2603.03290}, 
+}
+```
+
+
 ---
 
 <h3 align="center">🚀 Platform Compatibility</h3>
